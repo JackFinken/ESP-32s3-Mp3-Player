@@ -1,0 +1,7 @@
+Command: E:\ESP\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe E:\Development\tools/idf_monitor.py -p COM4 -b 115200 --toolchain-prefix xtensa-esp32s3-elf- --target esp32s3 --revision 0 E:\CProjects\esp32-s3-mp3-player\build\esp32-s3-mp3-player.elf E:\CProjects\esp32-s3-mp3-player\build\bootloader\bootloader.elf --force-color -m 'E:\ESP\Espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe' 'E:\Development\tools\idf.py' '-B'
+[0;33m--- Warning: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM4 instead...[0m
+[0;33m--- esp-idf-monitor 1.9.0 on \\.\COM4 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0m--- 0x40041a7c: [0;33mets_delay_us[0m[0m in [0;32mROM[0m
+[0m

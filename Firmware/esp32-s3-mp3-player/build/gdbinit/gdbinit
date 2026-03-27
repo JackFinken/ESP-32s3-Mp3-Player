@@ -1,0 +1,2 @@
+source E:/CProjects/esp32-s3-mp3-player/build/gdbinit/symbols
+source E:/CProjects/esp32-s3-mp3-player/build/gdbinit/connect

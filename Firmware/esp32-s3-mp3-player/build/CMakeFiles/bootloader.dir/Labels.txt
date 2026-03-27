@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/CProjects/esp32-s3-mp3-player/build/CMakeFiles/bootloader
+E:/CProjects/esp32-s3-mp3-player/build/CMakeFiles/bootloader.rule
+E:/CProjects/esp32-s3-mp3-player/build/CMakeFiles/bootloader-complete.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/CProjects/esp32-s3-mp3-player/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
